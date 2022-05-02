@@ -1,3 +1,4 @@
+const Sequelize = require('dotenv').config()
 
 
 module.exports = {
